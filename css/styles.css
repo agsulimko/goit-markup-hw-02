@@ -4,7 +4,7 @@
   --color: #434455;
 }
 .link {
-  text-decoration-line: none;
+  text-decoration: none;
 }
 .list {
   list-style: none;
@@ -14,7 +14,7 @@ body {
   font-weight: 400;
   /* letter-spacing: 0.02em; */
   color: var(--color);
-  /* #434455; */
+  color: #434455;
 }
 a {
   cursor: pointer;
@@ -73,16 +73,16 @@ a {
   color: #404bbf;
 }
 
-.contact-email-address,
-.contact-phone-number {
+.contact-email-phone {
   font-style: normal;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
-.contact-email-address:hover,
-.contact-email-address:focus {
+.contact-email-phone:hover,
+.contact-email-phone:focus {
   color: #404bbf;
 }
 
@@ -139,6 +139,7 @@ a {
 .feature-description {
   font-size: 16px;
   line-height: 1.5;
+  color: #434455;
 }
 /* ===========/Main page - Section 1 - Feature==========*/
 
@@ -191,6 +192,8 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--color);
+  color: #434455;
 }
 
 /* ===========/Main page - Section 3 - Our Team==========*/
@@ -247,12 +250,15 @@ a {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: var(--logo-studio-color);
   color: #2e2f42;
 }
 .project-content {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--color);
+  color: #434455;
 }
 
 /* ========ROW 1-3================= */
