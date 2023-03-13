@@ -13,7 +13,8 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   /* letter-spacing: 0.02em; */
-  color: #434455;
+  color: var(--color);
+  /* #434455; */
 }
 a {
   cursor: pointer;
@@ -147,7 +148,8 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
-  color: #2e2f42;
+  color: var(--logo-studio-color);
+  /* color: #2e2f42; */
 }
 /* .works-project-image { 
   background: url(2368.jpg);
