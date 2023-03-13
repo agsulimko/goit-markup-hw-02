@@ -1,6 +1,7 @@
 .boot {
   --logo-web-color: #4d5ae5;
   --logo-studio-color: #2e2f42;
+  --color: #434455;
 }
 .link {
   text-decoration-line: none;
@@ -38,17 +39,6 @@ a {
 .logo-studio {
   color: var(--logo-studio-color);
   /* color: #2e2f42; */
-  color: #2e2f42;
-}
-
-.team-title,
-.works-title {
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  text-transform: capitalize;
   color: #2e2f42;
 }
 
@@ -138,6 +128,7 @@ a {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .feature-description {
@@ -147,6 +138,16 @@ a {
 /* ===========/Main page - Section 1 - Feature==========*/
 
 /* ===========Main page - Section 2 - What are we doing==========*/
+
+.works-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
 .works-project-image {
   background: url(2368.jpg);
   border: 1px solid #e7e9fc;
@@ -156,6 +157,15 @@ a {
 
 /* ===========Main page - Section 3 - Our Team==========*/
 
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
 .team-image {
   background: url(img-2);
   mix-blend-mode: normal;
@@ -165,11 +175,13 @@ a {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .team-profession {
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /* ===========/Main page - Section 3 - Our Team==========*/
@@ -200,6 +212,11 @@ a {
 
 /* ========Section 1  Filter======= */
 .filter-btn {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+ line-height: 1.5
+  font-weight: 500;
+  letter-spacing: 0.04em;
   background: #f4f4fd;
   border: 1px solid #e7e9fc;
   border-radius: 4px;
