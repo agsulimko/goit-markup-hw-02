@@ -1,3 +1,7 @@
+.boot {
+  --logo-web-color: #4d5ae5;
+  --logo-studio-color: #2e2f42;
+}
 .link {
   text-decoration-line: none;
 }
@@ -8,7 +12,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #434455;
 }
 a {
   cursor: pointer;
@@ -25,20 +29,26 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
+  color: var(--logo-web-color);
   /* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) 
-    drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));*/
-}
-
-.logo-web {
+  drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));*/
   color: #4d5ae5;
 }
 
-.section-title {
+.logo-studio {
+  color: var(--logo-studio-color);
+  color: #2e2f42;
+}
+
+.team-title,
+.works-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
+  letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 
 .footer-description {
@@ -51,6 +61,9 @@ a {
   background: #2e2f42;
 }
 
+.contacts {
+  font-style: normal;
+}
 /* ===============/COMPONENTS=================== */
 
 /* =======================Main page Header=======*/
@@ -71,7 +84,6 @@ a {
   font-style: normal;
   font-size: 16px;
   line-height: 1.5;
-  color: #434455;
 }
 
 .contact-email-address:hover,
@@ -98,15 +110,16 @@ a {
 }
 
 .order-service-btn {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-
+  letter-spacing: 0.04em;
   color: #ffffff;
   /* width: 169px; */
   /*height: 56px; */
 
-  background: #4d5ae5;
+  background: var(--logo-web-color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   cursor: pointer;
@@ -124,12 +137,11 @@ a {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  color: #2e2f42;
 }
 .feature-description {
   font-size: 16px;
   line-height: 1.5;
-
-  color: #434455;
 }
 /* ===========/Main page - Section 1 - Feature==========*/
 
@@ -146,16 +158,17 @@ a {
 .team-image {
   background: url(img-2);
   mix-blend-mode: normal;
+  color: #2e2f42;
 }
 .team-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  color: #2e2f42;
 }
 .team-profession {
   font-size: 16px;
   line-height: 1.5;
-  color: #434455;
 }
 
 /* ===========/Main page - Section 3 - Our Team==========*/
@@ -168,7 +181,7 @@ a {
   font-size: 18px;
   line-height: 1.17;
 
-  display: flex;
+  /* display: flex; */
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -186,11 +199,11 @@ a {
 
 /* ========Section 1  Filter======= */
 .filter-btn {
-  color: #4d5ae5;
   background: #f4f4fd;
   border: 1px solid #e7e9fc;
   border-radius: 4px;
   cursor: pointer;
+  color: var(--logo-web-color);
 }
 .filter-btn:hover,
 .filter-btn:focus {
@@ -209,11 +222,11 @@ a {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  color: #2e2f42;
 }
 .project-content {
   font-size: 16px;
   line-height: 1.5;
-  color: #434455;
 }
 
 /* ========ROW 1-3================= */
