@@ -103,7 +103,7 @@ a {
   color: #ffffff;
 }
 
-.order-service-btn {
+.main-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -117,9 +117,10 @@ a {
   cursor: pointer;
 }
 
-.order-service-btn:hover,
-.order-service-btn:focus {
+.main-btn:hover,
+.main-btn:focus {
   background: #404bbf;
+  color: #404bbf;
 }
 /* ===================/Main page - Hero image*=================*/
 
