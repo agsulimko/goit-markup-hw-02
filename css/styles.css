@@ -182,6 +182,9 @@ a {
 .team-list {
   background-color: #ffffff;
 }
+.team-item {
+  background-color: #ffffff;
+}
 .team-image {
   background: url(img-2);
   mix-blend-mode: normal;
