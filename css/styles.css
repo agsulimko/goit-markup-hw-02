@@ -46,6 +46,7 @@ a {
 .footer-description {
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
 .hero,
@@ -64,6 +65,7 @@ a {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .menu-link:hover,
@@ -76,6 +78,7 @@ a {
   font-style: normal;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .contact-email-address:hover,
@@ -149,7 +152,7 @@ a {
   text-align: center;
   text-transform: capitalize;
   color: var(--logo-studio-color);
-  /* color: #2e2f42; */
+  color: #2e2f42;
 }
 /* .works-project-image { 
   background: url(2368.jpg);
@@ -243,11 +246,13 @@ a {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .project-content {
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /* ========ROW 1-3================= */
