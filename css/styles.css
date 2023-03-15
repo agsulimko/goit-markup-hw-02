@@ -104,7 +104,7 @@ color:var(--color-NAVYBLU);
 }
 
 .menu-item {
-    color: var(--color-NAVYBLU);
+   
 }
 .menu-link {
    color: var(--color-NAVYBLU);
@@ -124,12 +124,17 @@ color:var(--color-NAVYBLU);
 }
 .adrress-list {
 }
-.contact-email-phone { 
+.contact-email
+.contact-phone
+ { 
   color: var(--color-SLATE);
 }
-
-.contact-email-phone:hover,
-.contact-email-phone:focus {
+.contact-email:hover,
+.contact-email:focus {
+  color: var(--color-OCEAN);
+}
+.contact-phone:hover,
+.contact-phone:focus {
   color: var(--color-OCEAN);
 }
 /* =======================Main page Header=======*/
