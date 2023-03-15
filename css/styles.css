@@ -122,22 +122,17 @@ color:var(--color-NAVYBLU);
 }
 .adrress-list {
 }
-.contact-email
+.contact-email-phone
 { 
   color: var(--color-SLATE);
 }
-.contact-phone
- { 
-  color: var(--color-SLATE);
-}
-.contact-email:hover,
-.contact-email:focus {
+
+ 
+.contact-email-phone:hover,
+.contact-email-phone:focus {
   color: #404bbf;
 }
-.contact-phone:hover,
-.contact-phone:focus {
-  color:  #404bbf;
-}
+
 /* =======================Main page Header=======*/
 
 /*=========Main page - Hero image*=================*/
