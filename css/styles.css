@@ -7,7 +7,7 @@
   --color-OCEAN: #404bbf;
   /* --color-background: #ffffff; */
   --color-background-hero: #2e2f42;
-  --color-background-filter-btn: #404bbf;
+  /* --color-background-filter-btn: #404bbf; */
   --color-background-Header: #ffffff;
   --color-background-button: #4d5ae5;
   --color-background-general:: #E5E5E5;
@@ -84,6 +84,7 @@ color:var(--color-NAVYBLU);
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color-IRIS);
+ 
 }
 
 .logo-studio {
@@ -105,6 +106,7 @@ color:var(--color-NAVYBLU);
 .menu-item {
 }
 .menu-link {
+   color: var(--color-NAVYBLU);
 }
 .menu-link:hover,
 .menu-link:focus {
@@ -121,7 +123,8 @@ color:var(--color-NAVYBLU);
 }
 .adrress-list {
 }
-.contact-email-phone {
+.contact-email-phone { 
+  color: var(--color-SLATE);
 }
 
 .contact-email-phone:hover,
@@ -162,7 +165,7 @@ color:var(--color-NAVYBLU);
 
 .main-btn:hover,
 .main-btn:focus {
-  background: var(--color-background-filter-btn);
+  background:  #404bbf;
  
 }
 /*=========Main page - Hero image*=================*/
