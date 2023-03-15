@@ -123,6 +123,9 @@ color:var(--color-NAVYBLU);
 .adrress-list {
 }
 .contact-email
+{ 
+  color: var(--color-SLATE);
+}
 .contact-phone
  { 
   color: var(--color-SLATE);
@@ -169,9 +172,9 @@ color:var(--color-NAVYBLU);
 
 .main-btn:hover,
 .main-btn:focus {
-  background:  #404bbf;
- 
-}
+  background:var(--color-background-button);
+  color:var(--color-OCEAN);
+ } 
 /*=========Main page - Hero image*=================*/
 
 /* ===========Main page - Section 1 - Feature==========*/
