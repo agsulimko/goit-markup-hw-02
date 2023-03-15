@@ -5,9 +5,7 @@
   --color-Cloud: #f4f4fd;
   --color-WHITE: #ffffff;
   --color-OCEAN: #404bbf;
-  /* --color-background: #ffffff; */
   --color-background-hero: #2e2f42;
-  /* --color-background-filter-btn: #404bbf; */
   --color-background-Header: #ffffff;
   --color-background-button: #4d5ae5;
   --color-background-general:: #E5E5E5;
@@ -284,8 +282,7 @@ border-radius: 0px 0px 4px 4px;
 .filter-btn:hover,
 .filter-btn:focus {
   color: var(--color-WHITE); 
-  background: var(--color-background-filter-btn);
-
+  background: #404BBF; 
 }
 /* ========Section 1  Filter======= */
 
