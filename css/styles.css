@@ -104,6 +104,7 @@ color:var(--color-NAVYBLU);
 }
 
 .menu-item {
+    color: var(--color-NAVYBLU);
 }
 .menu-link {
    color: var(--color-NAVYBLU);
