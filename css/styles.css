@@ -119,6 +119,8 @@ color:var(--color-NAVYBLU);
 }
 .adrress-list {
 }
+.adrress-item {}
+
 .contact-email-phone
 { 
   color: var(--color-SLATE);
