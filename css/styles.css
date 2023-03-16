@@ -77,8 +77,6 @@ color:var(--color-NAVYBLU);
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  display: flex;
-  align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color-IRIS);
@@ -86,8 +84,7 @@ color:var(--color-NAVYBLU);
 }
 
 .logo-studio {
-  display: flex;
-  align-items: center;
+ 
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: var(--color-NAVYBLU);
@@ -139,7 +136,7 @@ color:var(--color-NAVYBLU);
 .hero {
   background: var(--color-background-hero);
   width: 1440px;
-  height: 600px;
+  
 }
 .main-title {
   font-weight: 700;
@@ -160,15 +157,13 @@ color:var(--color-NAVYBLU);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   cursor: pointer;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
+  
 }
 
 .main-btn:hover,
 .main-btn:focus {
-  background:var(--color-background-button);
-  color:var(--color-OCEAN);
+  background:var(--color-OCEAN) ;
+  
  } 
 /*=========Main page - Hero image*=================*/
 
