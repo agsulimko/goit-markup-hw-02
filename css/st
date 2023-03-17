@@ -1,14 +1,6 @@
 /* Logo WebStudio */
 .logo {
-  font-family: "Raleway", sans-serif;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: var(--color-IRIS);
-  /* color: #4d5ae5; */
-
+  
   /* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) 
   drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));*/
 }
@@ -17,7 +9,170 @@
   color: var(--color-NAVYBLU);
   /* color: #2e2f42; */
 }
+font-family: "Raleway", sans-serif;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--color-IRIS);
+/* color: #4d5ae5; */
 
+
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  .footer-description {
+    .footer-description {
+      .footer-description {
+        .footer-description {
+  .footer-description {
+    .footer-description {
+      .footer-description {
+        .footer-description {
+  .footer-description {
+    .footer-description {
+      .footer-description {
+        .footer-description {
+  .footer-description {
+    .footer-description {
+      .footer-description {
+        .footer-description {
+  .footer-description {
+    .footer-description {
+      .footer-description {
+        .footer-description {
+  .footer-description {
+    .footer-description {
+      .footer-description {
+        .footer-description {
+  .footer-description {
+    .footer-description {
+      .footer-description {
+        .footer-description {
+  .footer-description {
+    .footer-description {
+      .footer-description {
+        .footer-description {
+.footer-descr
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-Cloud);
+  /* #f4f4fd; */
+}
 .footer-description {
   font-weight: 400;
   font-size: 16px;
